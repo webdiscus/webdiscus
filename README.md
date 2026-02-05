@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-<!--
-[![WebDiscus's github stats](https://github-readme-stats.vercel.app/api?username=webdiscus&line_height=20&theme=merko&show_icons=true&title_color=006d32&icon_color=006d32)](#)
--->
 
+[![WebDiscus's github stats](https://github-readme-stats.vercel.app/api?username=webdiscus&line_height=20&theme=merko&show_icons=true&title_color=006d32&icon_color=006d32)](#)
+
+<!--
 ![GitHub Card](https://githubcard.com/webdiscus.svg?d=y3EO-j5x)
+-->
 
 <!--
 **webdiscus/webdiscus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
